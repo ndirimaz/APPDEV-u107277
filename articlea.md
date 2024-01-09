@@ -99,6 +99,18 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 >Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
 </span>
 
+## **Photo - The harsh reality**
+----
+
+<span style ="color:navy blue;font-weight:700;font-size:12px">
+
+A photo was downloaded from [unsplash.com](https://unsplash.com/) and saved to the local repository. The photo shows a group of penguins on a sandy beach contrary to their known habitats in ice covered areas. Figuretively, this may reflect that at times, life can be challenged by harsh realities that significantly throw us off from our known heavens.
+</span>
+
+![Penguins on a sandy beach](samuel-arkwright-Z3tajiPtiUg-unsplash.jpg "A group of Penguins on a sandy beach")
+
+
+
 ## **Resources**
 ----
 <span style ="color:black;font-weight:700;font-size:12px">
